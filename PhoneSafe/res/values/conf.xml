@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="updateURL">http://172.0.0.109:80/version_info.xml</string>
+</resources>
